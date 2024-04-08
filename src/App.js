@@ -1,3 +1,4 @@
+// This project will include React Query
 //latest file and uses redux
 // there is also an example reducer to understand reducer structure as well
 // feel free to break the ui functional components apart from this file and put them into their own files
